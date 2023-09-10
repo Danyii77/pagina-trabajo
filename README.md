@@ -1,2 +1,0 @@
-# pagina-trabajo
-Pagina web 
